@@ -1,44 +1,84 @@
 <div align="center">
 
-# Hi, I'm Cyril 👋
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Hi,%20I'm%20Cyril%20👋&fontSize=42&fontColor=58a6ff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-### **Software & Web Developer**
-*Focused on building clean, responsive, and scalable full-stack applications.*
+  <p align="center">
+    <b>Software & Web Developer</b> • <i>Building clean, scalable full-stack applications</i>
+  </p>
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-esin-6a9a3934b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrilesin214@gmail.com)
+  <!-- Social Links / Badges -->
+  <a href="https://www.linkedin.com/in/cyril-esin-6a9a3934b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cyrilesin214@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
 <br />
 
-## 🛠️ Tech Stack
+---
 
-| Category | Technologies |
+### 🚀 Tech Stack
+
+<div align="center">
+
+| Area | Technologies |
 | :--- | :--- |
-| **Languages & Markup** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| **Databases & ORMs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Frameworks" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Databases" /> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" /> |
+
+</div>
 
 <br />
 
-## 📊 GitHub Analytics
+---
+
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-| GitHub Stats | Most Used Languages |
-| :-: | :-: |
-| https://github-readme-stats.vercel.app/api?username=cyril9t&show_icons=true&theme=default
+  <a href="https://github.com/Cycoded">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cycoded&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Cyril's GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cycoded&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/Cycoded">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cycoded&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&alarm=58A6FF" alt="GitHub Streak" />
+  </a>
+
 </div>
+
+<br />
+
+---
+
+### 📌 Featured Repositories
+
+<div align="center">
+
+  <!-- Replace REPO_NAME with your actual repository names -->
+  <a href="https://github.com/Cycoded">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Cycoded&repo=YOUR_REPO_NAME_1&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Repository 1" />
+  </a>
+  <a href="https://github.com/Cycoded">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Cycoded&repo=YOUR_REPO_NAME_2&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Repository 2" />
+  </a>
+
+</div>
+
+<br />
 
 ---
 
 <div align="center">
-
-⭐️ **Thanks for stopping by!**  
-Feel free to check out my repositories or reach out for collaborations.
-
+  <p><i>Thanks for visiting! Feel free to reach out for collaborations or just to say hi.</i></p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
