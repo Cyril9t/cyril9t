@@ -31,10 +31,7 @@
 
 | GitHub Stats | Most Used Languages |
 | :-: | :-: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyril9t&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyril9t&layout=compact)
-
+| https://github-readme-stats.vercel.app/api?username=cyril9t&show_icons=true&theme=default
 </div>
 
 ---
