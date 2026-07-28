@@ -7,9 +7,9 @@ Databases & ORM ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?sty
 Tools ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 🚀 Featured Projects
 AttendX
-A [brief description — e.g. attendance/tracking system] built with [key stack used].
+
 Zyloo
-A [brief description of what it does] built with [key stack used].
+
 Add repo links and short one-line descriptions above — GitHub renders these as clickable project cards.
 📊 GitHub Stats
 ![cyril9t's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cycoded&show_icons=true&theme=default) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cycoded&layout=compact)
