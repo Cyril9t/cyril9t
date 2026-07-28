@@ -3,7 +3,7 @@
 # Hi, I'm Cyril 👋
 
 ### **Software & Web Developer**
-*Focused on building clean, responsive, and scalable full-stack applications.*
+*Frontend Developer on a mission to master the web. Focused on logic, performance, and growth.*
 
 ---
 
