@@ -64,11 +64,11 @@
 <div align="center">
 
   <!-- Replace REPO_NAME with your actual repository names -->
-  <a href="https://github.com/Cycoded">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Cycoded&repo=YOUR_REPO_NAME_1&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Repository 1" />
+  <a href="https://github.com/cyril9t">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=cyril9t&repo=cyril9t_1&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Repository 1" />
   </a>
-  <a href="https://github.com/Cycoded">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Cycoded&repo=YOUR_REPO_NAME_2&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Repository 2" />
+  <a href="https://github.com/cyril9t">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=cyril9t&repo=cyril9t_2&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Repository 2" />
   </a>
 
 </div>
