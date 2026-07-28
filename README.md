@@ -31,7 +31,9 @@
 
 | GitHub Stats | Most Used Languages |
 | :-: | :-: |
-| <img src="https://github-readme-stats.vercel.app/api?username=cyril9t&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="cyril9t's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyril9t&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" /> |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyril9t&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyril9t&layout=compact)
 
 </div>
 
