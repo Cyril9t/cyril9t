@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Cyril 👋
+# Hi, I'm Cyril 
 
 ### **Software & Web Developer**
-*Frontend Developer on a mission to master the web. Focused on logic, performance, and growth.*
+*Software Developer on a mission to master the web. Focused on logic, performance, and growth.*
 
 ---
 
